@@ -1,7 +1,7 @@
-package com.example.to_do_list.controller;
+package com.example.todolist.controller;
 
-import com.example.to_do_list.dto.TodoDto;
-import com.example.to_do_list.service.ToDoService;
+import com.example.todolist.dto.TodoDto;
+import com.example.todolist.service.ToDoService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

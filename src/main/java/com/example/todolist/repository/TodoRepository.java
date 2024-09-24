@@ -1,6 +1,6 @@
-package com.example.to_do_list.repository;
+package com.example.todolist.repository;
 
-import com.example.to_do_list.entity.Todo;
+import com.example.todolist.entity.Todo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
